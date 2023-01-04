@@ -1,4 +1,4 @@
-# projeto_spotify_clone
+# Projeto Spotify Clone
 Projeto criado em conjunto com o professor Jamilton Damasceno no curso de Bootstrap
 
 #### Tecnologias usadas no projeto
